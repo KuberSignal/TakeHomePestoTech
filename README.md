@@ -1,5 +1,6 @@
 # TakeHomePestoTech
 
+```
 ├── data_engineering_case_study/
 │   ├── data/
 │   │   ├── ad_impressions.json
@@ -11,4 +12,5 @@
 │   │   └── storage.py
 │   ├── README.md
 │   └── requirements.txt
+```
 
